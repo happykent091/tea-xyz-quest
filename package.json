@@ -1,0 +1,9 @@
+{
+  "name": "@happykent/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@happykent",
+  "repository": "https://github.com/happykent091/tea-xyz-quest.git",
+  "license": "ISC"
+}
